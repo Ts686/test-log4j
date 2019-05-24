@@ -1,4 +1,4 @@
-package cn.ljie.test;
+package cn.ljie.log;
 
 
 import org.apache.log4j.Logger;
