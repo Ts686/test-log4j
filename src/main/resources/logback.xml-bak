@@ -92,6 +92,7 @@
 		<appender-ref ref="file.error" />
 		<!--<appender-ref ref="file.async" />-->
 		<appender-ref ref="file.info" />
+
 	</root>
 
 </configuration>
