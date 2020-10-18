@@ -4,3 +4,5 @@ target/
 test-log4j.iml
 .idea/
 /src/test/
+/out
+*.iml
