@@ -7,6 +7,6 @@ public class Main {
         System.out.println(str);
         Integer integer = 2;
         System.out.println(integer);
-        /*hahah*/
+
     }
 }
