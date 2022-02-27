@@ -1,7 +1,8 @@
-package main.java.cn.ljie.log;
+package cn.ljie.log;
 
 public class Main {
     public static void main(String[] args) {
+        /*hahah*/
         String str = "Hello World";
         System.out.println(str);
         Integer integer = 2;
@@ -9,6 +10,3 @@ public class Main {
 
     }
 }
-
-
-增加代码了
