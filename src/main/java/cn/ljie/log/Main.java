@@ -1,6 +1,6 @@
 package cn.ljie.log;
 
-public class Mainsql {
+public class Main {
     public static void main(String[] args) {
         /*hahah*/
         String str = "Hello World";
